@@ -1,0 +1,8 @@
+-clone về thư mục trên máy:
+	+vào thư mục -> git bash here -> gõ git clone + link github
+-xem trạng thái:
+	+gõ git status
+-tải file lên GitHub:
+	+git add . //thêm tất cả, muốn thêm từng file thì thay . bằng filename
+	+git commit -m "name"
+	+git push origin tên nhánh
